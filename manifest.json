@@ -1,0 +1,21 @@
+{
+  "name": "IP Address Tracker - Free IP Geolocation Tool",
+  "short_name": "IP Tracker",
+  "description": "Professional IP Address Tracker with interactive maps, device detection, and comprehensive geolocation data",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "icons": [
+    {
+      "src": "./assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "lang": "en",
+  "scope": "/",
+  "orientation": "portrait-primary"
+}
